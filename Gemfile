@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'middleman'
-gem 'middleman-livereload'
-gem 'middleman-syntax'
+gem 'middleman', '>= 4.3.7'
+gem 'middleman-livereload', '>= 3.4.6'
+gem 'middleman-syntax', '>= 3.0.0'
 gem 'middleman-deploy', '2.0.0.pre.alpha'
 
 gem 'bootstrap-sass', '~> 3.3'
